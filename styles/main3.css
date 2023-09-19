@@ -34,6 +34,7 @@ img{
     margin-left: auto;
     height: 100px;
     width: 100px;
+    border-image: 25px aqua;
 }
 
 .shadow{
