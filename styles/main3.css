@@ -43,9 +43,9 @@ main{
 main h3{
     margin: 3em 2em 1.5em;
     font-size: 105%;
-    border: 5px black;
+    border: 5px aqua;
     border-radius: 20px;
-    box-shadow: 3px 3px 4px 4px aqua;
+    box-shadow: 3px 3px 4px 4px navy;
     padding: 1em;
 }
 #list {
