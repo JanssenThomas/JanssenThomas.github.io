@@ -39,11 +39,7 @@ img{
 }
 main{
     clear: left;
-    margin: 1.5em 2em 1.5em;
-    border: 5px dashed aqua;
-    border-radius: 20px;
-    box-shadow: 3px 3px 4px 4px navy;
-    padding: .5em;
+   
 
 }
 main h3{
@@ -54,8 +50,25 @@ main h3{
     box-shadow: 3px 3px 4px 4px navy;
     padding: 1em;
 }
+main nav {
+    margin: 1.5em 2em 1.5em;
+    border: 5px dashed aqua;
+    border-radius: 20px;
+    box-shadow: 3px 3px 4px 4px navy;
+    padding: .5em;
+
+}
 #list {
     line-height: 1.5em;
+}
+
+div.contact{
+    margin: 1.5em 2em 0em;
+    border: 5px dotted aqua;
+    border-radius: 20px;
+    box-shadow: 3px 3px 4px 4px navy;
+    padding: 1em;
+
 }
 footer p.copyright{
     text-align: center;
