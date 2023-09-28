@@ -39,9 +39,9 @@ header h2 {
 header img {
     float: left;
     margin-right: 2em;
-    height: 100px;
-    width: 100px;
-    border: 40px aqua;
+    height: 50px;
+    width: 50px;
+    border: 20px aqua;
     border-radius: 100px;
 }
 
