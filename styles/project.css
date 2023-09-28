@@ -36,9 +36,9 @@ header h2 {
     color:aquamarine;
     text-indent: 30px;
 }
-article img{
+header img {
     float: left;
-    margin-left: auto;
+    margin-right: 2em;
     height: 100px;
     width: 100px;
     border: 40px aqua;
