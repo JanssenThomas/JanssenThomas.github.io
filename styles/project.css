@@ -72,5 +72,8 @@ aside{
     width: 20%;
     float: right;  
     background-color: wheat;
-    padd
+    padding-top: 2em;
+    padding-bottom: 2em;
+    padding-left: 2em;
+    padding-right: 2em;
 }
