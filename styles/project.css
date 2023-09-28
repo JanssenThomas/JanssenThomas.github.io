@@ -20,6 +20,9 @@ a:focus, a:hover{
     border: 3px aqua;
     border-style: dotted solid;
 }
+header img {
+    float: right;
+}
 header h1 {
     font-size: 175%;
     color:aquamarine;
@@ -93,5 +96,5 @@ p.fixed{
     right: 0;
     border: 3px solid blue;
     background-color: aqua;
-    
+
 }
