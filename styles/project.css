@@ -38,7 +38,7 @@ header h2 {
 }
 header img {
     float: left;
-    margin-right: 2em;
+    margin-left: 2em;
     height: 100px;
     width: 100px;
     border: 20px aqua;
@@ -64,8 +64,8 @@ article h3 {
 }
 article img {
     float: left;
-    margin-right: 1em;
-    margin-bottom: 1em;
+    margin-right: 2em;
+    margin-bottom: 2em;
 }
 article p::first-letter{
     font-size: 3em;
@@ -98,5 +98,5 @@ p.fixed{
     right: 0;
     border: 3px solid blue;
     background-color: aqua;
-    padding: 3px;
+    padding: 10px;
 }
