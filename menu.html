@@ -1,15 +1,91 @@
-<!DOCTYPE html>
 <html lang="en">
-
 <head>
-    <meta charset="utf-8">
-    <meta name="description" content="Janssen Thomas's article with nav bar">
-    <meta name="Keywords" content="Janssen Thomas, SHSU, Student, MIS">
-    <title>JanssenThomas.github.io/menu</title>
-    <link rel="stylesheet" href=
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="menu.css">
+  <title>Research Project B</title>
 </head>
+<body>
+  <nav>
+    <div class="menu">
+      <a href="index.html">Home</a>
+      <a href="project.html">Project A</a>
+      <a href="menu.html">Project B</a>
+      <a href="#">About Us</a>
+    </div>
+  </nav>
 
+  <aside>
+    <ul>
+      <li><a href="#introduction">Introduction</a></li>
+      <li><a href="#background">Background</a></li>
+      <li><a href="#method">Method</a></li>
+      <li><a href="#analysis">Analysis</a></li>
+      <li><a href="#results">Results</a></li>
+      <li><a href="#discussion">Discussion</a></li>
+    </ul>
+  </aside>
 
-<nav>
-    <
-</nav>
+  <article>
+    <h1>Research Project B</h1>
+    <section id="introduction">
+      <h2>Introduction</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. ...</p>
+    </section>
+
+    <section id="background">
+      <h2>Background</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. ...</p>
+    </section>
+
+    <section id="method">
+      <h2>Method</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. ...</p>
+    </section>
+
+    <section id="analysis">
+      <h2>Analysis</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. ...</p>
+    </section>
+
+    <section id="results">
+      <h2>Results</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. ...</p>
+    </section>
+
+    <section id="discussion">
+      <h2>Discussion</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. ...</p>
+    </section>
+  </article>
+</body>
+</html>
+CSS (menu.css):
+
+css
+Copy code
+/* Styles for the menu bar */
+nav {
+  background-color: #333;
+  color: white;
+  padding: 10px 0;
+  text-align: center;
+}
+
+.menu {
+  display: flex;
+  justify-content: space-around;
+}
+
+.menu a {
+  color: white;
+  text-decoration: none;
+}
+
+/* Styles for the aside list */
+aside {
+  float: left;
+  width: 200px;
+  margin-top: 20px;
+}
+
