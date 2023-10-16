@@ -23,6 +23,7 @@ aside {
 
 aside ol {
     list-style-type: upper-roman;
+    text-size-adjust: 20px;
     padding-left: 2
   }
   
