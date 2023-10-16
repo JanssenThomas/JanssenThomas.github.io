@@ -28,8 +28,9 @@ aside ol {
   }
   
   aside ul li {
-    margin-bottom: 10px;
+    margin-bottom: 20px;
     list-style-type: square;
+    text-size-adjust: 20px;
   }
   
   article {
