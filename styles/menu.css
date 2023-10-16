@@ -21,12 +21,12 @@ aside {
   margin-top: 20px;
 }
 
-aside ul {
+aside ol {
     list-style-type: upper-roman;
     padding-left: 2
   }
   
-  aside ul li {
+  aside ol li {
     margin-bottom: 10px;
   }
   
