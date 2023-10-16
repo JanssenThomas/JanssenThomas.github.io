@@ -1,54 +1,16 @@
-nav {
-  #nav_menu ul  list-style: none; 
-  #nav_menu ul li  float: left; 
-  #nav_menu ul li a 
-      text-align: center;
-      display: block;
-      width: 175px;
-      padding: 1 em 0;
-
-      text-decoration: none;
-      background-color: blue;
-      color: white;
-      font-weight: bold;
-      border-right: 2px solid white; }
-  #nav_menu ul li a.lastitem  border-right: none; 
-  #nav_menu ul li a.current color:yellow;
+nav{
+  #nav_menu ul {list-style-type: none;}
+  #nav_menu ul li { float: left;}
+  #nav_menu ul li a {
+    text-align: center;
+    display: block;
+    width: 175px;
+    padding: 1em 0;
+    text-decoration: none;
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    border-right: 2px solid white; }
+  #nav_menu ul li a.lastitem { border-right: none;}
+  #nav_menu ul li a.current {color: yellow;}
 }
-
-aside {
-  float: left;
-  width: 200px;
-  margin-top: 20px;
-}
-
-aside ol {
-    list-style-type: upper-roman;
-    text-size-adjust: 20px;
-    padding-left: 2
-  }
-  
-  aside ul li {
-    margin-bottom: 20px;
-    list-style-type: square;
-    text-size-adjust: 20px;
-  }
-  
-  article {
-    margin-left: 220px;
-    padding: 20px;
-  }
-  article h1 {
-    font-size: 36px;
-    margin-bottom: 20px;
-  }
-  article h2 {
-    font-size: 24px;
-    margin-top: 20px;
-    margin-bottom: 10px;
-  }
-  
-  article p {
-    font-size: 16px;
-    line-height: 1.5;
-  }
