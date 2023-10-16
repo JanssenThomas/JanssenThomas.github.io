@@ -27,8 +27,9 @@ aside ol {
     padding-left: 2
   }
   
-  aside ol li {
+  aside ul li {
     margin-bottom: 10px;
+    list-style-type: square;
   }
   
   article {
