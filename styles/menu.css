@@ -1,5 +1,6 @@
 h1 {
   align-items: left;
+  float: right;
   padding-top: 4px;
   padding-bottom: 4px;
 }
