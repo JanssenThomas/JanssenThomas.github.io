@@ -33,6 +33,7 @@ article {
 }
 
 footer h3 {
+    clear: both;
     position: fixed;
     background-color: aqua;
     width: auto;
