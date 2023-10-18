@@ -19,6 +19,10 @@ h1 {
     padding: 1em, 1em;
     
 }
+body {
+    width: 95%;
+    margin: auto;
+}
 
 h2 img {
     float: left;
@@ -49,4 +53,10 @@ footer h3 {
     right: 0;
     border: 3px solid blue;
     padding: 30px;
+}
+aside {
+    clear: both;
+    position: fixed;
+    background-color: aqua;
+    width: 20%;
 }
