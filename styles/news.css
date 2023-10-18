@@ -26,6 +26,9 @@ h2 img {
     border: 20px aqua;
     border-radius: 100px;
 }
+article {
+    column-span: 3;
+}
 
 footer h3 {
     position: fixed;
