@@ -22,6 +22,6 @@ h1 {
 #nav_menu ul li a.lastitem { border-right: none; }
 #nav_menu ul li a.current { color: yellow; }
 
-ol.square { list-style-type: square; }
-ul.upper { list-style-type: upper-roman; }
+ol { list-style-type: square; }
+ul { list-style-type: upper-roman; }
  
