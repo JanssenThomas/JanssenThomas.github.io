@@ -13,3 +13,17 @@
 #nav_menu ul li a.lastitem { border-right: none; }
 #nav_menu ul li a.current { color: yellow; }
 
+h2 img {
+    float: left;
+    margin-left: 2em;
+    height: 75px;
+    width: 75px;
+    border: 20px aqua;
+    border-radius: 100px;
+}
+
+aside {
+    position: fixed;
+    padding: 1em;
+
+}
