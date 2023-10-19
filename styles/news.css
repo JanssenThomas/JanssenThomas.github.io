@@ -73,7 +73,7 @@ article p::first-letter{
     color: aqua;
 }
 aside {
-    clear: left;
+    clear: right;
     position: fixed;
     background-color: aqua;
     width: 20%;
