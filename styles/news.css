@@ -37,10 +37,10 @@ header h2 {
     text-indent: 30px;
 }
 article img {
-    float: right;
+    float: left;
     margin-left: 2em;
     border: 20px aqua;
-    border-radius: 100px;
+    
 }
 
 .shadow{
