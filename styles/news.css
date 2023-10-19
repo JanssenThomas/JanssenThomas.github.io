@@ -19,15 +19,23 @@ h1 {
     padding: 1em, 1em;
     
 }
-h2.introduction{
-    text-wrap: ;
-}
-body {
-    width: 95%;
-    margin: auto;
+header {
+    clear: both;
+    border-bottom: 2px solid blue;
 }
 
-h2 img {
+header h1 {
+    font-size: 175%;
+    color:aquamarine;
+    text-indent: 30px;
+}
+
+header h2 {
+    font-size: 130%;
+    color:aquamarine;
+    text-indent: 30px;
+}
+header img {
     float: left;
     margin-left: 2em;
     height: 75px;
@@ -35,25 +43,34 @@ h2 img {
     border: 20px aqua;
     border-radius: 100px;
 }
-    article h2 {
-        width: 75%;
-        float: left;
-        column-count: 3;
-        column-rule: 2px dotted blue;    
-        column-gap: 2em;
-        margin-left: 2em;
-    }
 
+.shadow{
+    text-shadow: 2px 2px 2px blue;
 
-footer h3 {
+}
+article{
     clear: both;
-    position: fixed;
-    background-color: aqua;
-    width: auto;
-    bottom: 35%;
-    right: 0;
-    border: 3px solid blue;
-    padding: 30px;
+    width: 70%;
+    float: left;
+    column-count: 2;
+    column-rule: 2px dashed blue;
+    column-gap: 2em;
+    margin-left: 2em;
+}
+article h3 {
+    column-span: all;
+
+}
+article img {
+    float: left;
+    margin-right: 2em;
+    margin-bottom: 2em;
+}
+article p::first-letter{
+    font-size: 3em;
+    font-weight: bold;
+    font-style: italic;
+    color: aqua;
 }
 aside {
     clear: both;
