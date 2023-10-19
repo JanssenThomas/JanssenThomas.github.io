@@ -73,7 +73,10 @@ article p::first-letter{
     color: aqua;
 }
 aside {
-    clear: right;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 25px;
+    padding-bottom: 25px;
     position: fixed;
     background-color: aqua;
     width: 20%;
