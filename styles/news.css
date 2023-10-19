@@ -19,6 +19,9 @@ h1 {
     padding: 1em, 1em;
     
 }
+h2.introduction{
+    text-wrap: ;
+}
 body {
     width: 95%;
     margin: auto;
@@ -32,7 +35,7 @@ h2 img {
     border: 20px aqua;
     border-radius: 100px;
 }
-    article {
+    article h2 {
         width: 75%;
         float: left;
         column-count: 3;
@@ -40,9 +43,7 @@ h2 img {
         column-gap: 2em;
         margin-left: 2em;
     }
-    article h3{
-        column-span: all;
-}
+
 
 footer h3 {
     clear: both;
