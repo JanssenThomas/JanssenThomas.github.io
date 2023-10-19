@@ -32,18 +32,10 @@ header h2 {
     text-indent: 30px;
 }
 article img {
-    float: left;
-    margin-left: 2em;
-    border: 20px aqua;
-    
+    float: left;   
 }
 
-.shadow{
-    text-shadow: 2px 2px 2px blue;
-
-}
 article{
-    clear: both;
     width: 70%;
     float: left;
     column-count: 3;
