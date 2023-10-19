@@ -70,5 +70,5 @@ aside {
     footer p.copyright {
         text-align: center;
         font-size: 80%;
-        border-top: 2px solid blue;
+        border-bottom: 2px solid blue;
 }
