@@ -78,6 +78,7 @@ aside {
     background-color: aqua;
     padding: 1em,2em,2em;
     border: 5px solid blue;
+
 }
 footer {
     clear: both;
@@ -87,3 +88,5 @@ footer {
         text-align: center;
         font-size: 80%;
 }
+ol { list-style-type: square; }
+ul { list-style-type: upper-roman; }
