@@ -55,7 +55,7 @@ article{
     margin-left: 2em;
 }
 article h3 {
-    column-span: all;
+    column-span: 3;
 
 }
 article img {
