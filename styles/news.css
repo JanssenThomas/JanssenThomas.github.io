@@ -69,7 +69,7 @@ aside {
 }
 footer {
     clear: both;
-    border-bottom: 2px blue;
+    border-top: 2px blue;
 }
     footer p.copyright {
         text-align: center;
