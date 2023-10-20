@@ -41,7 +41,9 @@ header {
     text-indent: 30px;
 }
 article img {
-    float: left;   
+    float: left;
+    margin-bottom: 2em;
+    margin-right: 2em;   
 }
 
 article{
