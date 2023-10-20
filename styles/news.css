@@ -72,8 +72,8 @@ aside {
     width: 20%;
     float: right;
     position: fixed;
-    top:auto;
-    right: auto;
+    top:50px;
+    right: 5;
     bottom: 5;
     background-color: aqua;
     padding: 1em,2em,2em;
