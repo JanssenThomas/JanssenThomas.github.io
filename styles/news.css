@@ -13,7 +13,7 @@
 #nav_menu ul li a.lastitem { border-right: none; }
 #nav_menu ul li a.current { color: yellow; }
 body{
-    width: 1000px;
+    width: 95%;
     background-color: white;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 100%;
@@ -45,7 +45,7 @@ article img {
 }
 
 article{
-    width: 70%;
+    width: 75%;
     float: left;
     column-count: 3;
     column-rule: 2px dashed blue;
