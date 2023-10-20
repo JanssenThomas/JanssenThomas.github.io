@@ -67,6 +67,10 @@ aside {
     padding: 1em,2em,2em;
     border: 5px solid blue;
 }
+footer {
+    clear: both;
+    border-top: 2px blue;
+}
     footer p.copyright {
         text-align: center;
         font-size: 80%;
