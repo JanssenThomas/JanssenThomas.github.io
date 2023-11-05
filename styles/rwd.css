@@ -1,12 +1,11 @@
-html, body {
+body {
     margin: 0;
     height: 100%;
     font-size: 100%;
-    }
-    
-    * {
     font-family: Verdana, Arial, Helvetica, sans-serif;
     box-sizing: border-box;
+    width: 96%;
+    max-width: 1200px;
     }
     
     
@@ -90,9 +89,22 @@ html, body {
     .menu a {
     
     } 
-    article{
-        padding: 0 1em;
-    } 
+    article, aside, h1, h2, h3, p {
+        margin: 0;
+        padding: 0; }
+    article, aside { margin-bottom: 1em;}
+    p {font-size: .875em;}
+
+    header h2 {font-size: 2.25em;
+                margin-left: 12.12121%; }
+    header h3 { font-size: 1.25em;
+                font-style: italic;
+                margin-left:  12.12121%; }
+    header img { width: 8.0808%;
+                max-width: 80px;
+                min-width: 40px;
+                float: left;
+                margin-left: 2.0202%; }
     article h2{
         font-size: 1.25em;
     }
