@@ -1,3 +1,13 @@
+html, body {
+    margin: 0;
+    height: 100%;
+    font-size: 100%;
+    }
+    
+    * {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+    }
 .top-nav {
     display: flex;
     flex-direction: row;
@@ -18,7 +28,7 @@
     padding: 0;
     }
     
-    .menu li {
+    .menu>li {
     margin: 0 1rem;
     overflow: hidden;
     }
@@ -93,7 +103,7 @@
         margin: auto;
         display: block;
         width: 100%;
-        max-width: 768px;
+        max-width: 760px;
     }
     
     footer {
@@ -104,7 +114,9 @@
         text-align: center;
         font-size: .8em;
     }
-     (max-width: 700px) 
+     @media screen {
+        max-width: 700px
+     } 
         .menu-button-container {
             display: flex;
         }
