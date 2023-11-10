@@ -114,10 +114,12 @@ html, body {
         text-align: center;
         font-size: .8em;
     }
+    
     @media (max-width: 700px) {
-    }.menu-button-container {
+        .menu-button-container {
             display: flex;
         }
+    }
         .menu-button-container {
             display: flex;
         }
