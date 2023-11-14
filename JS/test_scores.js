@@ -16,3 +16,17 @@ const html1 = `<p>Score 1 = ${score1}</p>
               <p>Score 3 = ${score3}</p>
               <p>Average score = ${average}</p>`;
 document.write(html1);
+
+let total = 0;
+
+const width = parseFloat(prompt("Enter the width"));
+
+const height = parseFloat(prompt("Enter the height"));
+
+const area = parseFloat(width * height)
+
+const html3 = '<p>width = ${width}</p>
+            <p>height = ${height}</P>
+            <p>area = ${area}</p>'
+document.write(html3);
+`
