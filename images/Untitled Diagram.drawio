@@ -1,20 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2024-03-04T03:57:40.362Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="8TL9l-ja5LH0_Bqxeeut" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-04T04:01:01.246Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="K0Unet4lo98i8ueFcUaf" version="24.0.1" type="github">
   <diagram name="Page-1" id="dd472eb7-4b8b-5cd9-a60b-b15522922e76">
-    <mxGraphModel dx="3174" dy="1956" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="3174" dy="1106" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7XEopBTYgRlzdl_y1s_X-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="374e34682ed331ee-1">
+        <mxCell id="7XEopBTYgRlzdl_y1s_X-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="374e34682ed331ee-1" target="7XEopBTYgRlzdl_y1s_X-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="120" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7XEopBTYgRlzdl_y1s_X-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="374e34682ed331ee-1">
+        <mxCell id="7XEopBTYgRlzdl_y1s_X-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="374e34682ed331ee-1" target="7XEopBTYgRlzdl_y1s_X-12">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="500" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7XEopBTYgRlzdl_y1s_X-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="374e34682ed331ee-1">
+        <mxCell id="7XEopBTYgRlzdl_y1s_X-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.113;entryY=0.663;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="374e34682ed331ee-1" target="7XEopBTYgRlzdl_y1s_X-18">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="870" y="130" as="targetPoint" />
           </mxGeometry>
@@ -41,75 +41,55 @@
         <mxCell id="374e34682ed331ee-1" value="Advantage Specialties&lt;div&gt;Inc.&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#0069D1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="346" y="225" width="400" height="400" as="geometry" />
         </mxCell>
+        <mxCell id="7XEopBTYgRlzdl_y1s_X-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="7XEopBTYgRlzdl_y1s_X-1" target="7XEopBTYgRlzdl_y1s_X-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="47" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <object label="Employees&lt;div&gt;&lt;br&gt;&lt;/div&gt;" id="7XEopBTYgRlzdl_y1s_X-1">
           <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=calibri;shadow=0;textShadow=0;" vertex="1" parent="1">
-            <mxGeometry x="127" y="13" width="30" height="60" as="geometry" />
+            <mxGeometry x="151" y="77" width="30" height="60" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="7XEopBTYgRlzdl_y1s_X-2" value="Employees&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="201" y="19" width="30" height="60" as="geometry" />
+        <mxCell id="7XEopBTYgRlzdl_y1s_X-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="7XEopBTYgRlzdl_y1s_X-2" target="7XEopBTYgRlzdl_y1s_X-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7XEopBTYgRlzdl_y1s_X-5" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.173;entryY=0.28;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="7XEopBTYgRlzdl_y1s_X-9">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="222" y="30" as="sourcePoint" />
-            <mxPoint x="272" y="-20" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="272" y="30" />
-              <mxPoint x="222" y="-20" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="7XEopBTYgRlzdl_y1s_X-2" value="Employees&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="203" y="84" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7XEopBTYgRlzdl_y1s_X-9" value="How is the&amp;nbsp;&lt;div&gt;business doing?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="286" y="-7" width="150" height="100" as="geometry" />
+          <mxGeometry x="292" y="61" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="7XEopBTYgRlzdl_y1s_X-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="7XEopBTYgRlzdl_y1s_X-12" target="7XEopBTYgRlzdl_y1s_X-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7XEopBTYgRlzdl_y1s_X-12" value="Customers&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="10" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="7XEopBTYgRlzdl_y1s_X-15" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="7XEopBTYgRlzdl_y1s_X-16">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="510" y="10" as="sourcePoint" />
-            <mxPoint x="560" y="-40" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="560" y="10" />
-              <mxPoint x="549" y="67" />
-              <mxPoint x="510" y="-40" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry x="510" y="84" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7XEopBTYgRlzdl_y1s_X-16" value="I need them to&amp;nbsp;&lt;div&gt;deliver my product&lt;/div&gt;&lt;div&gt;on time &amp;amp; as promised.&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="-24" width="171" height="119" as="geometry" />
+          <mxGeometry x="585" y="68" width="171" height="119" as="geometry" />
         </mxCell>
         <mxCell id="7XEopBTYgRlzdl_y1s_X-18" value="Suppliers&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=mxgraph.signs.transportation.truck_7;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
-          <mxGeometry x="840" y="30" width="160" height="80" as="geometry" />
+          <mxGeometry x="880" y="139" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7XEopBTYgRlzdl_y1s_X-19" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="850" y="40" as="sourcePoint" />
-            <mxPoint x="900" y="-10" as="targetPoint" />
+            <mxPoint x="904" y="148" as="sourcePoint" />
+            <mxPoint x="954" y="98" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="800" y="30" />
-              <mxPoint x="900" y="40" />
-              <mxPoint x="840" y="20" />
-              <mxPoint x="870" y="10" />
-              <mxPoint x="770" />
+              <mxPoint x="854" y="138" />
+              <mxPoint x="954" y="148" />
+              <mxPoint x="894" y="128" />
+              <mxPoint x="924" y="118" />
+              <mxPoint x="824" y="108" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="7XEopBTYgRlzdl_y1s_X-21" value="How much are&lt;div&gt;they ordering&amp;nbsp;&lt;/div&gt;&lt;div&gt;from us?&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="-70" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="7XEopBTYgRlzdl_y1s_X-24" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.88;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="7XEopBTYgRlzdl_y1s_X-25">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="143" y="26" as="sourcePoint" />
-            <mxPoint x="143" y="-4" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="193" y="26" />
-              <mxPoint x="143" y="-24" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry x="928" y="32" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7XEopBTYgRlzdl_y1s_X-25" value="I need to process&lt;div&gt;those orders.&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-12" y="-20" width="131" height="90" as="geometry" />
+          <mxGeometry x="13" y="16" width="131" height="90" as="geometry" />
         </mxCell>
         <mxCell id="7XEopBTYgRlzdl_y1s_X-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7XEopBTYgRlzdl_y1s_X-27" target="7XEopBTYgRlzdl_y1s_X-35">
           <mxGeometry relative="1" as="geometry" />
@@ -138,13 +118,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7XEopBTYgRlzdl_y1s_X-37" value="Owner&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="880" y="306" width="30" height="58" as="geometry" />
+          <mxGeometry x="870" y="425" width="30" height="58" as="geometry" />
         </mxCell>
         <mxCell id="7XEopBTYgRlzdl_y1s_X-38" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;How can I&amp;nbsp;&lt;/div&gt;&lt;div&gt;improve my business&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="887" y="186" width="158" height="93" as="geometry" />
+          <mxGeometry x="864.16" y="270" width="158" height="93" as="geometry" />
         </mxCell>
         <mxCell id="7XEopBTYgRlzdl_y1s_X-40" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Are orders meeting&lt;/div&gt;&lt;div&gt;our set standards&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="945" y="295" width="136" height="100" as="geometry" />
+          <mxGeometry x="954" y="363" width="136" height="100" as="geometry" />
         </mxCell>
         <mxCell id="7XEopBTYgRlzdl_y1s_X-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7XEopBTYgRlzdl_y1s_X-43">
           <mxGeometry relative="1" as="geometry">
@@ -152,23 +132,23 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7XEopBTYgRlzdl_y1s_X-43" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.government;" vertex="1" parent="1">
-          <mxGeometry x="838" y="537" width="203.67" height="89" as="geometry" />
+          <mxGeometry x="841.33" y="601" width="203.67" height="89" as="geometry" />
         </mxCell>
         <mxCell id="7XEopBTYgRlzdl_y1s_X-45" value="Has this business&lt;div&gt;paid their taxes?&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="932" y="397" width="168" height="118.5" as="geometry" />
+          <mxGeometry x="926" y="477" width="168" height="118.5" as="geometry" />
         </mxCell>
         <mxCell id="7XEopBTYgRlzdl_y1s_X-46" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="940" y="545" as="sourcePoint" />
-            <mxPoint x="990" y="495" as="targetPoint" />
+            <mxPoint x="924" y="607" as="sourcePoint" />
+            <mxPoint x="974" y="557" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="990" y="545" />
-              <mxPoint x="940" y="495" />
+              <mxPoint x="974" y="607" />
+              <mxPoint x="924" y="557" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="7XEopBTYgRlzdl_y1s_X-50" value="What does this&amp;nbsp;&lt;div&gt;business provide to the community?&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="674" width="180" height="131" as="geometry" />
+          <mxGeometry x="882" y="711" width="180" height="131" as="geometry" />
         </mxCell>
         <mxCell id="7XEopBTYgRlzdl_y1s_X-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7XEopBTYgRlzdl_y1s_X-52">
           <mxGeometry relative="1" as="geometry">
@@ -176,10 +156,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7XEopBTYgRlzdl_y1s_X-52" value="Lakeshore" style="image;html=1;image=img/lib/clip_art/computers/Software_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="508" y="674" width="80" height="80" as="geometry" />
+          <mxGeometry x="508" y="731" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7XEopBTYgRlzdl_y1s_X-57" value="Will this company&lt;div&gt;continue to pay for&lt;/div&gt;&lt;div&gt;our software?&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="307" y="699.5" width="179" height="116.5" as="geometry" />
+          <mxGeometry x="252" y="731" width="179" height="116.5" as="geometry" />
         </mxCell>
         <mxCell id="7XEopBTYgRlzdl_y1s_X-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7XEopBTYgRlzdl_y1s_X-59">
           <mxGeometry relative="1" as="geometry">
