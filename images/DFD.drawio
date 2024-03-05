@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-05T02:10:10.718Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="URw7vKETV0qR2xJS0Z2J" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-05T03:54:20.599Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="V2_qyTSKgXvOS8TZ9-kl" version="24.0.1" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="2074" dy="1106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -58,6 +58,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="3ILAFvqH6Bl1qXx8cAew-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3ILAFvqH6Bl1qXx8cAew-8" target="3ILAFvqH6Bl1qXx8cAew-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="380" />
+              <mxPoint x="481" y="380" />
+              <mxPoint x="481" y="375" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="3ILAFvqH6Bl1qXx8cAew-8" value="Advantage Specialties Order Processing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="140" width="120" height="60" as="geometry" />
         </mxCell>
@@ -103,7 +113,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3ILAFvqH6Bl1qXx8cAew-11" value="Sage" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="160" width="80" height="80" as="geometry" />
+          <mxGeometry x="1000" y="150" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3ILAFvqH6Bl1qXx8cAew-12" value="Customer places order via email" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry x="0.2727" y="10" width="50" height="50" relative="1" as="geometry">
@@ -151,6 +161,12 @@
         </mxCell>
         <mxCell id="3ILAFvqH6Bl1qXx8cAew-35" value="Order confirmation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="710" y="28" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3ILAFvqH6Bl1qXx8cAew-36" value="filing cabinet" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
+          <mxGeometry x="160" y="360" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3ILAFvqH6Bl1qXx8cAew-38" value="Orders sent to filing system" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="350" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
